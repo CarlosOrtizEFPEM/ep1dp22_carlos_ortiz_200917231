@@ -3,3 +3,4 @@ Carlos Ortiz
 Carnet 200917231
 Didactica de la programacion
 ENLACE A VIDEO:
+https://youtu.be/ImFYPGS8ev8
